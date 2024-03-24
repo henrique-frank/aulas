@@ -1,2 +1,2 @@
-# aulas-youtube
-Repositório com arquivos das aulas do youtube
+# aulas
+Repositório com arquivos das aulas públicas
